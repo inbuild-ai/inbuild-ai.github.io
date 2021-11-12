@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.10fabc8d.chunk.css",
-    "main.js": "/static/js/main.9606d64b.chunk.js",
-    "main.js.map": "/static/js/main.9606d64b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc003913.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc003913.js.map",
-    "static/js/2.3c8291b3.chunk.js": "/static/js/2.3c8291b3.chunk.js",
-    "static/js/2.3c8291b3.chunk.js.map": "/static/js/2.3c8291b3.chunk.js.map",
-    "static/js/3.59172779.chunk.js": "/static/js/3.59172779.chunk.js",
-    "static/js/3.59172779.chunk.js.map": "/static/js/3.59172779.chunk.js.map",
+    "main.js": "/static/js/main.1a1e295a.chunk.js",
+    "main.js.map": "/static/js/main.1a1e295a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed92f214.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed92f214.js.map",
+    "static/js/2.0ffa6add.chunk.js": "/static/js/2.0ffa6add.chunk.js",
+    "static/js/2.0ffa6add.chunk.js.map": "/static/js/2.0ffa6add.chunk.js.map",
+    "static/js/3.bef6e2e4.chunk.js": "/static/js/3.bef6e2e4.chunk.js",
+    "static/js/3.bef6e2e4.chunk.js.map": "/static/js/3.bef6e2e4.chunk.js.map",
     "pdf.worker.js": "/be6762d87d0caa6c7a2e23395f5e6a4e.js",
     "be6762d87d0caa6c7a2e23395f5e6a4e.js.LICENSE.txt": "/be6762d87d0caa6c7a2e23395f5e6a4e.js.LICENSE.txt",
     "index.html": "/index.html",
     "static/css/main.10fabc8d.chunk.css.map": "/static/css/main.10fabc8d.chunk.css.map",
-    "static/js/2.3c8291b3.chunk.js.LICENSE.txt": "/static/js/2.3c8291b3.chunk.js.LICENSE.txt",
+    "static/js/2.0ffa6add.chunk.js.LICENSE.txt": "/static/js/2.0ffa6add.chunk.js.LICENSE.txt",
     "static/media/homepage_img_01.11a3b193.png": "/static/media/homepage_img_01.11a3b193.png",
     "static/media/homepage_img_02.7ea62157.png": "/static/media/homepage_img_02.7ea62157.png",
     "static/media/inBuild_Privacy_Policy.48b7c2b2.pdf": "/static/media/inBuild_Privacy_Policy.48b7c2b2.pdf",
@@ -23,9 +23,9 @@
     "static/media/product_img_02.a469c796.png": "/static/media/product_img_02.a469c796.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc003913.js",
-    "static/js/2.3c8291b3.chunk.js",
+    "static/js/runtime-main.ed92f214.js",
+    "static/js/2.0ffa6add.chunk.js",
     "static/css/main.10fabc8d.chunk.css",
-    "static/js/main.9606d64b.chunk.js"
+    "static/js/main.1a1e295a.chunk.js"
   ]
 }
